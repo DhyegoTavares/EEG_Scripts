@@ -1,0 +1,33 @@
+ Dhyego	   Rose
+
+t1task1 = t1task1
+t1task2 = t2task1
+t1task3 = t3task1
+t1task4 = t4task1
+
+t2task1 = t1task3
+t2task2 = t2task2
+t2task3 = t3task2
+t2task4 = t4task2
+
+t3task1 = t1task2
+t3task2 = t2task3
+t3task3 = t3task3
+t3task4 = t4task3
+
+
+TR1-TA1
+TR3-TA1
+TR2-TA1
+
+TR1-TA2
+TR2-TA2
+TR3-TA2
+
+TR1-TA3
+TR2-TA3
+TR3-TA3
+
+TR1-TA4
+TR2-TA4
+TR3-TA4
