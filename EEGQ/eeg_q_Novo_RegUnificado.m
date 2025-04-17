@@ -1,11 +1,11 @@
 clear all;
 Nome='';
-pastaDados= 'C:\Users\dhyeg\OneDrive\Dhyego\Mestrado\Matlab\Scripts\EDF_Rose\MERGE\SET\netlab\';
-pastaReport= 'C:\Users\dhyeg\OneDrive\Dhyego\Mestrado\Matlab\Scripts\EDF_Rose\MERGE\SET\netlab\Relatorio\';
+pastaDados= 'D:\Experimento\Musica\Baseline\';
+pastaReport= 'D:\Experimento\Musica\Baseline\Relatorio\';
 mkdir(pastaReport);
 FreqMap = [3 11 22 34];
 FreqRange = [2 40];
-delChanels ={'Cz'};
+delChanels ={'Cz','Status','trigger'};
 
 
 ritmos = {'Delta', 'Teta', 'Alfa','Beta'};
